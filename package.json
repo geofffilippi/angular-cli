@@ -55,7 +55,7 @@
   "devDependencies": {
     "broccoli-stew": "^0.3.6",
     "chai": "^3.2.0",
-    "exists-sync": "0.0.3",
+    "exists-sync": "0.0.4",
     "glob": "^5.0.14",
     "minimatch": "^2.0.10",
     "mocha": "^2.2.5",
